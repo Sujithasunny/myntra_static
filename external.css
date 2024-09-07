@@ -119,3 +119,15 @@ nav ul li a {
     font-size: 50px; 
     margin-bottom: 5px;
 }
+.container {
+    display: flex;
+    gap: 100px;
+}
+.container1{
+    display: flex;
+    gap: 900px;
+}
+.container2{
+    display: flex;
+    gap:830px;
+}
