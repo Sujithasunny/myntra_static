@@ -122,18 +122,18 @@ nav ul li a {
 .container {
     display: flex;
     gap: 100px;
-    font-size: 16px;
+    font-size: 20px;
 }
 .container1{
     display: flex;
     gap: 900px;
-    font-size: 16px;
+    font-size: 20px;
 }
 .container2{
     display: flex;
     gap:830px;
-    font-size: 16px;
+    font-size: 20px;
 }
 .p{
-    font-size: 16px;
+    font-size: 20px;
 }
